@@ -1,0 +1,6 @@
+id|name|age|department|designation|reporting_to
+1|sriram|23|cse|software developer|google
+2|mukund|34|hr management|hr|zoho
+3|sebastian|29|finance|finance management|fresh works
+4|rakesh|45|finance|people relationship|tata elxsi
+5|joseph vijay|47|marketing|digital marketing|flipkart
