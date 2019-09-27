@@ -1,2 +1,2 @@
 # oops
-oops application
+employee database application developed using c++
